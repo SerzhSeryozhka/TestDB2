@@ -12,7 +12,8 @@ public class Main {
         //example2();
         // exampleInsert1();
         // exampleInsert2();
-        exampleUpdate1();
+//        exampleUpdate1();
+        Message.example99();
     }
 
     private static void exampleUpdate1() throws SQLException {
